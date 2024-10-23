@@ -16,4 +16,4 @@ std_result = np.std(
 # Output
 print(mean_result)  # Printing mean
 print(var_result)  # Printing variance
-print(round(std_result, 11))  # Printing standard deviation
+print(round(std_result, 11))  # Printing standard deviation 
